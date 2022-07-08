@@ -58,3 +58,12 @@
     font-size: 13px;
     padding: 4px 8px;
 }
+@media (max-width: 426px){
+    .goUp{
+        width: 25px;
+        height: 25px;
+    }
+    .goUp img{
+        height: 20px;
+    }
+}
