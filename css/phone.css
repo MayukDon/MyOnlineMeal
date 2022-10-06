@@ -63,7 +63,11 @@
         width: 25px;
         height: 25px;
     }
-    .goUp img{
-        height: 20px;
+ .fa-solid{
+        /* height: 10px;
+        width: 10px;
+        size: 10px; */
+        font-size: 20px;
+        /* background-color: black; */
     }
 }
